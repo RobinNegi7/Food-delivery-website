@@ -52,3 +52,4 @@ vite.config.js          # Vite configuration
 package.json            # Project metadata and scripts
 README.md               # Project documentation
 ```
+(Project still in progress)
